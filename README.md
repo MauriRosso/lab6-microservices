@@ -76,3 +76,4 @@ by a PR so other fellow can try it.
 | 757024 | Germán Garcés| [report.md](https://github.com/fntkg/lab6-microservices/blob/work/report.md)     | |       |
 | 721520 | Sergio García-Campero Hernández | [solution.md](https://github.com/SergioGCH/lab6-microservices/blob/test/solution.md)     | |       |
 | 779691 | [Tomás Pelayo](https://github.com/Tomenos18/lab6-microservices)|[Report](https://github.com/Tomenos18/lab6-microservices/blob/test/report.md)| | |
+| 847512 | Mauricio Andrés Rosso| [report](https://github.com/MauriRosso/lab6-microservices/blob/work/report.md)     | |       |
